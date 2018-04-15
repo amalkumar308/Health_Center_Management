@@ -19,7 +19,7 @@ $id = validate($_POST["id"]);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="shortcut icon" href="favicon.ico">
+
 <style type="text/css">
             
             * {
